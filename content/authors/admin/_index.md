@@ -47,15 +47,21 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/felizgsanchez
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.es/citations?user=_JS4VMQAAAAJ
-- icon: linkedin
-  icon_pack: fab
-  link: https://es.linkedin.com/in/felicidadgsanchez
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/felicidadgsanchez
+- icon: orcid  
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7397-3194
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Felicidad_Garcia-Sanchez
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://es.linkedin.com/in/felicidadgsanchez
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://instagram.com/felicidadgsanchez
 
 
 # Link to a PDF of your resume/CV.
@@ -73,4 +79,4 @@ highlight_name: false
 ---
 
 Felicidad García-Sánchez es... 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
