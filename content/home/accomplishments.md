@@ -44,7 +44,7 @@ item:
   date_start: "2011-11-1"
   description: Formación Universitaria Complementaria. Universidad de Salamanca
   organization: Ministerio de Educación y Ciencia
-  organization_url: ""
+  organization_url: https://www.usal.es
   title: Beca de Colaboración
   url: ""
 # - certificate_url: ""
