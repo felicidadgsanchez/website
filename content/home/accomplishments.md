@@ -47,15 +47,14 @@ item:
   organization_url: ""
   title: "Beca de Colaboración"
   url: ""
-
-# - certificate_url: ""
-#   date_end: ""
-#   date_start: "2011"
-#   description: ""
-#   organization: Universidad de Salamanca
-#   organization_url: https://www.usal.es
-#   title: Becaria en el simposio ENCUENTRO SOBRE VÍDEOARTE ELECTRÓNICO (Dirección de Arte. Escenografías Audiovisuales)
-#   url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2011"
+  description: ""
+  organization: Universidad de Salamanca
+  organization_url: https://www.usal.es
+  title: "Becaria en el simposio ENCUENTRO SOBRE VÍDEOARTE ELECTRÓNICO (Dirección de Arte. Escenografías Audiovisuales)"
+  url: ""
 # - certificate_url: ""
 #   date_end: ""
 #   date_start: "2008"
