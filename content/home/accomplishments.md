@@ -40,22 +40,6 @@ item:
   title: Ayudas para financiar contratos predoctorales de la Universidad de Salamanca cofinanciadas por el Banco Santander
   url: ""
 - certificate_url: ""
-  date_end: "2012-06-01"
-  date_start: "2011-11-1"
-  description: Formación Universitaria Complementaria. Universidad de Salamanca
-  organization: Ministerio de Educación y Ciencia
-  organization_url: ""
-  title: Beca de Colaboración
-  url: ""
-- certificate_url: ""
-  date_end: ""
-  date_start: "2011"
-  description: ""
-  organization: Universidad de Salamanca
-  organization_url: https://www.usal.es
-  title: Becaria en el simposio ENCUENTRO SOBRE VÍDEOARTE ELECTRÓNICO (Dirección de Arte. Escenografías Audiovisuales)
-  url: ""
-- certificate_url: ""
   date_end: ""
   date_start: "2008"
   description: ""
