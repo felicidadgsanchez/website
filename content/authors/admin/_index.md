@@ -18,8 +18,8 @@ bio: Diseño, imagen, pintura, escultura, cine, arquitectura, fotografía, víde
 
 # Interests to show in About widget
 interests:
-- Diseño
 - Alfabetización Visual
+- Diseño
 - Fotografía
 - Vídeo
 
@@ -29,12 +29,15 @@ education:
   - course: Doctorado en la Sociedad del Conocimiento
     institution: Universidad de Salamanca
     year: 2019
-  - course: Máster en Arquitectura y Diseño de Interiores
+  - course: Máster en Arquitectura y Diseño de Interior
     institution: Universidad de Salamanca
     year: 2013
-  - course: Licenciatura en Bellas Artes
+  - course: Licenciatura en Bellas Artes (especialidad Escultura)
     institution: Universidad de Salamanca
     year: 2012
+  - course: Técnica Superior en Imagen
+    institution: Junta de Castilla y León
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
