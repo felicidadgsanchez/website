@@ -61,7 +61,7 @@ item:
   description: ""
   organization: Universidad de Salamanca
   organization_url: https://www.usal.es
-  title: Primer premio. II Concurso de Fotopoemas (Fotografía y Poema)
+  title: "Primer premio. II Concurso de Fotopoemas (Fotografía y Poema)"
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -69,7 +69,7 @@ item:
   description: ""
   organization: Ayuntamiento de Salamanca
   organization_url: ""
-  title: Mención Especial Premiada. Concurso Vanguarclasidia Jóvenes Creadores
+  title: "Mención Especial Premiada. Concurso Vanguarclasidia Jóvenes Creadores"
   url: ""
 
 ---
