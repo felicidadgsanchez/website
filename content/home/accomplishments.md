@@ -42,17 +42,12 @@ item:
 - certificate_url: ""
   date_end: "2012-06-01"
   date_start: "2011-11-1"
-  description: ""
-  organization: Ministerio de Educación y Ciencia
+  description: "Formación Universitaria Complementaria. Universidad de Salamanca"
+  organization: "Ministerio de Educación y Ciencia"
   organization_url: ""
-  title: Beca de Colaboración
+  title: "Beca de Colaboración"
   url: ""
-# - certificate_url: ""
-#   description: Formación Universitaria Complementaria. Universidad de Salamanca
-#   organization: 
-#   organization_url: https://www.usal.es
-#   title: 
-#   url: ""
+
 # - certificate_url: ""
 #   date_end: ""
 #   date_start: "2011"
