@@ -31,14 +31,14 @@ item:
   organization_url: https://www.usal.es
   title: Doctora Cum Laude
   url: ""
-- certificate_url: ""
-  date_end: "2019-09-03"
-  date_start: "2016-02-16"
-  description: ""
-  organization: Universidad de Salamanca
-  organization_url: https://www.usal.es
-  title: Ayudas para financiar contratos predoctorales de la Universidad de Salamanca cofinanciadas por el Banco Santander
-  url: ""
+# - certificate_url: ""
+#   date_end: "2019-09-03"
+#   date_start: "2016-02-16"
+#   description: ""
+#   organization: Universidad de Salamanca
+#   organization_url: https://www.usal.es
+#   title: Ayudas para financiar contratos predoctorales de la Universidad de Salamanca cofinanciadas por el Banco Santander
+#   url: ""
 - certificate_url: ""
   date_end: "2012-06-01"
   date_start: "2011-11-1"
