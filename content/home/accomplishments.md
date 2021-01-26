@@ -42,7 +42,7 @@ item:
   date_end: "2012-06-01"
   description: "Formación Universitaria Complementaria. Universidad de Salamanca"
 - certificate_url: ""
-  title: "Becaria en el simposio 'ENCUENTRO SOBRE VÍDEOARTE ELECTRÓNICO' (Dirección de Arte. Escenografías Audiovisuales"
+  title: "Becaria en el simposio ENCUENTRO SOBRE VÍDEOARTE ELECTRÓNICO (Dirección de Arte. Escenografías Audiovisuales"
   organization: "Universidad de Salamanca"
   date_start: "2011"
   date_end: ""
