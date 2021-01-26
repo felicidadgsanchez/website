@@ -25,32 +25,28 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: ""
-  date_end: ""
   date_start: "2019-09-03"
   description: ""
   organization: Universidad de Salamanca
   organization_url: https://www.usal.es
   title: Doctora Cum Laude
   url: ""
-# - certificate_url: ""
-#   title: "Ayudas para financiar contratos predoctorales de la Universidad de Salamanca"
-#   organization: "Universidad de Salamanca"
-#   date_start: "2016-02-16"
-#   date_end: "2019-09-03"
-#   description: "Cofinanciadas por el Banco Santander"
-# - certificate_url: ""
-#   title: "Beca de Colaboración"
-#   organization: "Ministerio de Educación y Ciencia"
-#   date_start: "2011-11-1"
-#   date_end: "2012-06-01"
-#   description: "Formación Universitaria Complementaria. Universidad de Salamanca"
+- certificate_url: ""
+  date_end: "2019-09-03"
+  date_start: "2016-02-16"
+  description: ""
+  organization: Universidad de Salamanca
+  organization_url: https://www.usal.es
+  title: Ayudas para financiar contratos predoctorales de la Universidad de Salamanca cofinanciadas por el Banco Santander
+  url: ""
+- certificate_url: ""
+  date_end: "2012-06-01"
+  date_start: "2011-11-1"
+  description: "Formación Universitaria Complementaria. Universidad de Salamanca"
+  organization: Ministerio de Educación y Ciencia
+  organization_url: 
+  title: Beca de Colaboración
+  url: ""
 # - certificate_url: ""
 #   title: "Becaria en el simposio ENCUENTRO SOBRE VÍDEOARTE ELECTRÓNICO (Dirección de Arte. Escenografías Audiovisuales)"
 #   organization: "Universidad de Salamanca"
