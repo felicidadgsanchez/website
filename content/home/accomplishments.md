@@ -49,27 +49,27 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2011"
+  date_start: "2011-03-22"
   description: ""
   organization: Universidad de Salamanca
   organization_url: https://www.usal.es
   title: "Becaria en el simposio ENCUENTRO SOBRE VÍDEOARTE ELECTRÓNICO (Dirección de Arte. Escenografías Audiovisuales)"
   url: ""
-# - certificate_url: ""
-#   date_end: ""
-#   date_start: "2008"
-#   description: ""
-#   organization: Universidad de Salamanca
-#   organization_url: https://www.usal.es
-#   title: Primer premio. II Concurso de Fotopoemas (Fotografía y Poema)
-#   url: ""
-# - certificate_url: ""
-#   date_end: ""
-#   date_start: "2006"
-#   description: ""
-#   organization: Ayuntamiento de Salamanca
-#   organization_url: ""
-#   title: Mención Especial Premiada. Concurso Vanguarclasidia Jóvenes Creadores
-#   url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2008-03-01"
+  description: ""
+  organization: Universidad de Salamanca
+  organization_url: https://www.usal.es
+  title: Primer premio. II Concurso de Fotopoemas (Fotografía y Poema)
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2006-03-1"
+  description: ""
+  organization: Ayuntamiento de Salamanca
+  organization_url: ""
+  title: Mención Especial Premiada. Concurso Vanguarclasidia Jóvenes Creadores
+  url: ""
 
 ---
