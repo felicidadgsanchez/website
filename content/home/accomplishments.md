@@ -41,11 +41,11 @@ item:
   url: ""
 - certificate_url: ""
   date_end: "2012-06-01"
-  date_start: "2011-11-1"
-  description: Formacion Universitaria Complementaria. Universidad de Salamanca
-  organization: Ministerio de Educacion y Ciencia
+  date_start: "2011-11-01"
+  description: "Formación Universitaria Complementaria. Universidad de Salamanca"
+  organization: "Ministerio de Educación y Ciencia"
   organization_url: ""
-  title: Beca de Colaboracion
+  title: "Beca de Colaboración"
   url: ""
 
 # - certificate_url: ""
