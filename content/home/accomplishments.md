@@ -31,12 +31,14 @@ item:
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
-# - certificate_url: ""
-#   title: "Doctora Cum Laude"
-#   organization: "Universidad de Salamanca"
-#   date_start: "2019-09-03"
-#   date_end: ""
-#   description: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-09-03"
+  description: ""
+  organization: Universidad de Salamanca
+  organization_url: https://www.usal.es
+  title: Doctora Cum Laude
+  url: ""
 # - certificate_url: ""
 #   title: "Ayudas para financiar contratos predoctorales de la Universidad de Salamanca"
 #   organization: "Universidad de Salamanca"
