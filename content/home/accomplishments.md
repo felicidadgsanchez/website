@@ -34,42 +34,26 @@ item:
 - certificate_url: ""
   date_end: "2019-09-03"
   date_start: "2016-02-16"
-  description: cofinanciadas por el Banco Santander
+  description: ""
   organization: Universidad de Salamanca
   organization_url: https://www.usal.es
-  title: Ayudas para financiar contratos predoctorales de la Universidad de Salamanca 
+  title: Ayudas para financiar contratos predoctorales de la Universidad de Salamanca cofinanciadas por el Banco Santander
   url: ""
-# - certificate_url: ""
-#   date_end: "2012-06-01"
-#   date_start: "2011-11-1"
-#   description: Formación Universitaria Complementaria. Universidad de Salamanca
-#   organization: Ministerio de Educación y Ciencia
-#   organization_url: ""
-#   title: Beca de Colaboración
-#   url: ""
-# - certificate_url: ""
-#   date_end: ""
-#   date_start: "2011"
-#   description: ""
-#   organization: Universidad de Salamanca
-#   organization_url: https://www.usal.es
-#   title: Becaria en el simposio ENCUENTRO SOBRE VÍDEOARTE ELECTRÓNICO (Dirección de Arte. Escenografías Audiovisuales)
-#   url: ""
-# - certificate_url: ""
-#   date_end: ""
-#   date_start: "2008"
-#   description: ""
-#   organization: Universidad de Salamanca
-#   organization_url: https://www.usal.es
-#   title: Primer premio. II Concurso de Fotopoemas (Fotografía y Poema)
-#   url: ""
-# - certificate_url: ""
-#   date_end: ""
-#   date_start: "2006"
-#   description: ""
-#   organization: Ayuntamiento de Salamanca
-#   organization_url: ""
-#   title: Mención Especial Premiada. Concurso Vanguarclasidia Jóvenes Creadores
-#   url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2008"
+  description: ""
+  organization: Universidad de Salamanca
+  organization_url: https://www.usal.es
+  title: Primer premio. II Concurso de Fotopoemas (Fotografía y Poema)
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2006"
+  description: ""
+  organization: Ayuntamiento de Salamanca
+  organization_url: ""
+  title: Mención Especial Premiada. Concurso Vanguarclasidia Jóvenes Creadores
+  url: ""
 
 ---
