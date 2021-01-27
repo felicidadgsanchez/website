@@ -48,8 +48,8 @@ item:
   title: "Beca de Colaboración"
   url: ""
 - certificate_url: ""
-  date_end: ""
-  date_start: "2011-03-22"
+  date_end: "2011-10-24"
+  date_start: "2011-10-22"
   description: ""
   organization: Universidad de Salamanca
   organization_url: https://www.usal.es
