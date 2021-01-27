@@ -53,7 +53,7 @@ item:
   description: ""
   organization: Universidad de Salamanca
   organization_url: https://www.usal.es
-  title: "Becaria en el simposio ENCUENTRO SOBRE VÍDEOARTE ELECTRÓNICO \(Dirección de Arte. Escenografías Audiovisuales\)"
+  title: "Becaria en el simposio ENCUENTRO SOBRE VÍDEOARTE ELECTRÓNICO. Dirección de Arte. Escenografías Audiovisuales"
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -61,7 +61,7 @@ item:
   description: ""
   organization: Universidad de Salamanca
   organization_url: https://www.usal.es
-  title: "Primer premio. II Concurso de Fotopoemas \(Fotografía y Poema\)"
+  title: "Primer premio. II Concurso de Fotopoemas"
   url: ""
 - certificate_url: ""
   date_end: ""
