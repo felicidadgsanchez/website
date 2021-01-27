@@ -28,6 +28,12 @@ experience:
     location: Salamanca
     date_start: '2016-02-16'
     date_end: '2019-09-03'
+  - title: Docente en formación
+    company: Universidad de Salamanca
+    company_url: ''
+    location: Salamanca
+    date_start: '2017-09-09'
+    date_end: '2018-07-20'
     # description: |2-
     #     Responsibilities include:
         
