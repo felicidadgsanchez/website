@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Experiencia
+title: Experiencia destacada
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Personal investigador en formación
+    company: Universidad de Salamanca
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+    location: Salamanca
+    date_start: '2016-02-16'
+    date_end: '2019-09-03'
+    # description: |2-
+    #     Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
         
-  - title: Professor
-    company: University X
+  - title: Diseñadora
+    company: Grupo de Investigación GRIAL. Universidad de Salamanca
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Salamanca
+    date_start: '2015-02-01'
+    date_end: '2016-02-16'
+    # description: ""
+  - title: Becaria de investigación
+    company: Universidad de Salamanca
+    company_url: ''
+    location: Salamanca
+    date_start: '2014-07-01'
+    date_end: '2015-02-01'
+    # description: ""
+  - title: Diseñadora
+    company: Grupo de Investigación GRIAL. Universidad de Salamanca
+    company_url: ''
+    location: Salamanca
+    date_start: '2013-10-01'
+    date_end: '2014-07-01'
+    # description: ""
 ---
