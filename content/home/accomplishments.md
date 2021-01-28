@@ -64,6 +64,14 @@ item:
   title: "Primer premio. II Concurso de Fotopoemas (Fotografía y Poema)"
   url: ""
 - certificate_url: ""
+  date_end: "2008-05-31"
+  date_start: "2008-05-22"
+  description: "Presentando la obra 'La silla del que se fue a Sevilla'"
+  organization: Biennale des jeunes créateurs de l’Europe et de la Méditerranée
+  organization_url: https://www.bjcem.org/
+  title: "Participante en la Bienal de Jóvenes Creadores de Europa y el Mediterráneo"
+  url: "https://www.bjcem.org/biennali/xiii-biennial-of-young-artists-from-europe-and-the-mediterranean-puglia-2008/"
+- certificate_url: ""
   date_end: ""
   date_start: "2006-03-01"
   description: ""
