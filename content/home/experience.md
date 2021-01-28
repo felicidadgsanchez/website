@@ -66,7 +66,7 @@ experience:
     company: Universidad de Salamanca y Filmoteca Regional de Castilla y León
     company_url: ''
     location: Salamanca
-    date_start: '2013-10-01'
-    date_end: '2014-07-01'
+    date_end: "2012-06-01"
+    date_start: "2011-11-01"
     description: "Desarrollo del proyecto 'Cómo un peón se hace reina. La no-fotografía' dirigido por por Juan Antonio Pérez Millán. Beca de colaboración otorgada por el Ministerio de Educación."
 ---
