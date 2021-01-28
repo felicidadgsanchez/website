@@ -12,7 +12,7 @@ external_link: ""
 #   caption: Photo by rawpixel on Unsplash
 #   focal_point: Smart
 
-{{< gallery album="project/example" >}}
+{{< gallery album="content/project/example" >}}
 
 links:
 - icon: twitter
