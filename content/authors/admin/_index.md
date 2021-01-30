@@ -81,5 +81,9 @@ email: ""
 highlight_name: false
 ---
 
-Felicidad García-Sánchez es... 
+Felicidad García-Sánchez cursó sus estudios de Bellas Artes en la Universidad de Salamanca (2012). En el año 2019 obtuvo el título de Doctora (calificación sobresaliente Cum Laude) dentro del Programa de Doctorado en Formación en la Sociedad del Conocimiento de la Universidad de Salamanca con su tesis "Alfabetización y prosumo visual en la Sociedad del Conocimiento". Anteriormente también cursó los estudios de Técnica Superior en Imagen y Sonido (2007). 
+Durante su carrera investigadora ha participado en diversos proyectos de innovación educativa y nuevas tecnologías. Sus líneas de investigación se relacionan con la alfabetización visual en nuevos medios, el diseño, la fotografía o la videocreación.
+A lo largo de su etapa formativa obtuvo diversas becas y reconocimientos que le llevaron a colaborar en proyectos artísticos relacionados con la imagen y el diseño. Entre las diferentes intituciones y organismos con los que colabora se encuentran la Filmoteca Regional de Castilla y León, el Conservatorio Superior de música de Castilla y León, o el Teatro Liceo de Salamanca.
+Dentro de su actividad artística destacan premios como la participación en la Bienal de Jóvenes Creadores de Europa y el Mediterráneo (BJCEM), el II Certamen de Fotopoemas de la Universidad de Salamanca, o el certamen de Jóvenes Creadores del Ayuntamiento de Salamanca en 2006.
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
