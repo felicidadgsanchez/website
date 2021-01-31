@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Fotografía
+    tag: Fotografía
   # - name: Deep Learning
   #   tag: Deep Learning
   # - name: Other
