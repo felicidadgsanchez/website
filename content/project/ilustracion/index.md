@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Ilustración
-summary: Trabajos de ilustración seleccionados
+summary: Trabajos seleccionados de ilustración
 tags:
 - Ilustración
 date: "2020-04-25T00:00:00Z"
