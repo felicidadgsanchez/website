@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Fotografía
-summary: Trabajos seleccionados sobre fotografía
+summary: Trabajos seleccionados de fotografía
 tags:
 - Fotografía
 date: "2020-04-22T00:00:00Z"
