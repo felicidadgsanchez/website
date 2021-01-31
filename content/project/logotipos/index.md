@@ -34,8 +34,6 @@ El comienzo de mi experiencia profesional relacionada con el diseño gráfico su
 Tras esta identidad gráfica, desarrollé la imagen de múltiples proyectos europeos, congresos internacionales, proyectos de investigación a nivel nacional e internacional o programas educativos oficiales. Esta experiencia me puso en contacto con el mundo de la tecnología y me permitió desarrollar parte de las ideas del trabajo de investigación de mi tesis doctoral.
 Entre las ultimas experiencias profesionales está el desarrollo de la imágen del festival de música N’ Ca Mayalde (2020).
 
+
+Así, mismo, durante mi experiencia profesional, he llevado a cabo el desarrollo de diferentes identidades digitales y físicas, participando en procesos de diseño de producto y diseño nuevas propuestas gráficas para portales web.
 {{< gallery >}}
-
-Durante mi experiencia profesional, he llevado a cabo el desarrollo de diferentes identidades digitales y físicas, participando en procesos de diseño de producto y diseño nuevas propuestas gráficas para portales web.
-
-{{< gallery2 >}}
