@@ -33,6 +33,10 @@ content:
     tag: Ilustración
   - name: Logotipos
     tag: Logotipos
+  - name: Posters
+    tag: Posters
+  - name: Otras disciplinas
+    tag: Otras
   # - name: Deep Learning
   #   tag: Deep Learning
   # - name: Other
