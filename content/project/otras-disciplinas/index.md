@@ -4,7 +4,7 @@ title: Otras disciplinas
 summary: Trabajos seleccionados de otras disciplinas
 tags:
 - Otras
-date: "2020-04-28T00:00:00Z"
+date: "2020-04-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

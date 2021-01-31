@@ -4,7 +4,7 @@ title: Ilustración
 summary: Trabajos de ilustración seleccionados
 tags:
 - Ilustración
-date: "2020-04-22T00:00:00Z"
+date: "2020-04-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

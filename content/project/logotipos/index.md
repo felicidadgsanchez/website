@@ -4,7 +4,7 @@ title: Logotipos
 summary: Trabajos seleccionados de diseño de logotipos
 tags:
 - Logotipos
-date: "2020-04-23T00:00:00Z"
+date: "2020-04-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
