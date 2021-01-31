@@ -29,6 +29,10 @@ content:
     tag: '*'
   - name: Fotografía
     tag: Fotografía
+  - name: Ilustración
+    tag: Ilustración
+  - name: Logotipos
+    tag: Logotipos
   # - name: Deep Learning
   #   tag: Deep Learning
   # - name: Other
